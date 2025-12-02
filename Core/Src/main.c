@@ -69,7 +69,7 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-	  /* receive the message through USART */
+		/* receive the message through USART */
 		key = usart2_read();
 		if( key == '1')
 		{
