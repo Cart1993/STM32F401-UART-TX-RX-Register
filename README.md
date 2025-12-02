@@ -44,7 +44,7 @@ Debugger: ST-Link v2
 
 1. Clone this specific repository:
 
-> git clone git@github.com:cart1993/STM32F401-GPIO-Register.git
+> git clone git@github.com:cart1993/STM32F401-UART-TX-RX-Register.git
 
 2. Open the project file .uvprojx in keil uVision 5.
 
